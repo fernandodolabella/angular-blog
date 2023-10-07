@@ -1,14 +1,14 @@
 export const dataFake = [
   {
     "id":"1",
-    "title": "NOVO HOMEM DE FERRO EM 3D",
-    "description": "marvel anuncia um novo filme do homem de ferro, confira",
-    "photoCover":"https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/7F51FA9F6CBD9F0C9B1394B1CC0A6A842D07091318674E234CD33CBF7C28CDC3/scale?width=1200&aspectRatio=1.78&format=jpeg"
+    "title": "Esse era o link do barco?",
+    "description": "Não lembro mais",
+    "photoCover":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR8OAtUnIcxNjtBN6z3SJ3OGcAnaGmR1FH6tRYMvzNuobfe46W0H-cff2ucVC04HXyr8I&usqp=CAU"
   },
   {
     "id":"2",
-    "title": "Nova Série anunciada no Disney +",
-    "description": "bla blabla",
-    "photoCover":"https://disneyplusbrasil.com.br/wp-content/uploads/2021/07/Series-Marvel-Disney-Plus-1024x576.jpg"
+    "title": "Voce viu que as imagens estão trocadas?",
+    "description": "que loucura não é mesmo?",
+    "photoCover":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR8OAtUnIcxNjtBN6z3SJ3OGcAnaGmR1FH6tRYMvzNuobfe46W0H-cff2ucVC04HXyr8I&usqp=CAU"
   }
 ]
